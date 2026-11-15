@@ -15,21 +15,26 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global IT Service Management (ITSM) and enterprise support services market is estimated at **$14.8B to $17.6B in 2026** (growing at an estimated ~14–16% CAGR from ~$13B in 2025). The sector exhibits a **moderately fragmented, tier-concentrated market dynamic**: top-tier enterprise mega-vendors (led by ServiceNow, followed by Atlassian and BMC) dominate core high-end enterprise ITIL workloads, while an expansive long tail of agile mid-market SaaS providers and specialized ESM/departmental point solutions compete across SMB, regional, and vertical niches.
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[ServiceNow](https://www.servicenow.com/)** | **The enterprise ITSM benchmark.** Full ITIL practice coverage with CMDB, discovery, and AIOps. **IRM Standard ($125/operator/month)** for risk; ITSM pricing is quote-only and scales with fulfiller seats . | Quote-only (enterprise contract) | No free tier; demo via sales |
-| **[Jira Service Management](https://www.atlassian.com/software/jira/service-management)** | **Most accessible enterprise ITSM for Atlassian shops.** Premium: **~$55/agent/month**. **Free tier: 3 agents, unlimited customers**. SLA management, request types, and knowledge base included. | Premium: **~$55/agent/month**; Free: 3 agents | **Free**: 3 agents, unlimited customers, 2 GB storage |
-| **[Freshservice](https://www.freshworks.com/freshservice/)** | AI-powered IT service management with Freddy AI. SLA tracking, service catalog, and multi-department ESM. | Quote-only (tiered by agents) | **14-day free trial**; no permanent free tier |
-| **[BMC Helix](https://www.bmc.com/)** | Enterprise ITSM with AIOps and automation. **HelixGPT** for AI-assisted service management. | Quote-only (enterprise contract) | No free tier; demo via sales |
-| **[SolarWinds Service Desk](https://www.solarwinds.com/)** | ITSM with **$39/technician/month** pricing. Includes incident, problem, change, and asset management. | **$39/technician/month** | **30-day full-featured trial** |
-| **[SysAid](https://www.sysaid.com/)** | AI-powered ITSM with zero-trust data segregation for multi-department ESM. | Quote-only (tiered by agents) | No free tier; demo via sales |
+| Product | Company Scale (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier / Trial Limits | Description |
+|---------|------------------------------------|------------------------|--------------------------|-------------|
+| **[ServiceNow](https://www.servicenow.com/)** | **~$105B Market Cap** (~$15.4B TTM Revenue) | **$70/fulfiller/month** (Foundation/Standard entry tier, billed annually; quote-based) | **Free Personal Developer Instance (PDI)** (1 developer instance, non-production; requires login every 10 days or reclaimed after 90 days of age) | Full ITIL practice benchmark with CMDB, service catalogs, incident/change management, and enterprise-grade generative AI/AIOps. |
+| **[Jira Service Management](https://www.atlassian.com/software/jira/service-management)** | **~$37B Market Cap** (~$6.6B TTM Revenue) | **$20/agent/month** (Standard plan; $25/agent/month on monthly billing) | **Free forever plan**: Up to 3 agents, unlimited customer requestors, 2 GB file storage, 100 email notifications/day (also offers a 14-day free trial for Standard/Premium tiers) | ITIL-aligned service desk tailored for engineering and Atlassian-native environments, including SLA tracking, incident swarming, and Rovo AI. |
+| **[SolarWinds Service Desk](https://www.solarwinds.com/)** | **~$3.2B Market Cap** (~$797M TTM Revenue) | **$39/technician/month** (Essentials plan, billed annually) | **30-day free trial**: Full access to Premier tier features, ITAM/CMDB capabilities, unlimited ticket requestors, no credit card required | Cloud-based ITSM with integrated asset management, incident resolution workflows, and SLA breached-risk alerts. |
+| **[Freshservice](https://www.freshworks.com/freshservice/)** | **~$3.2B Market Cap** (~$903M TTM Revenue) | **$19/agent/month** (Starter plan billed annually, or $29/month-to-month; Growth tier with full SLA management starts at $49/agent/month) | **14-day free trial**: Unrestricted access to Enterprise features, unlimited agents during evaluation, no credit card required | AI-powered IT service desk powered by Freddy AI, featuring multi-department ESM support, incident workflows, and SLA rule engines. |
+| **[BMC Helix](https://www.bmc.com/)** | **~$2.2B Annual Revenue** (Private, owned by KKR) | **$115/named user/month** (Entry Service Desk tier via enterprise quote/G-Cloud frameworks) | **30-day enterprise Proof of Concept (PoC) / custom guided trial**: Scoped dedicated environment upon sales request, plus interactive on-demand sandbox demos (no self-serve free forever plan) | Enterprise ServiceOps and ITIL platform leveraging HelixGPT, advanced CMDB discovery, automated root-cause analysis, and business workflow orchestration. |
+| **[SysAid](https://www.sysaid.com/)** | **~$30M ARR** (Private, raised $30M from IGP) | **$89/agent/month** (Professional AI plan, billed annually) | **30-day free trial**: Full feature access to AI agents, asset discovery, and ticket management workflows, no credit card required | AI-first IT service desk delivering generative ticket summarization, zero-trust departmental separation, asset tracking, and automated SLA escalation. |
 
 ## Open-Source GitHub Projects
 
