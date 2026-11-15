@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-SLA-Support-Service-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-SLA-Support-Service-Management?style=social&color=white" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-SLA-Support-Service-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-SLA-Support-Service-Management?style=social&color=white" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-SLA-Support-Service-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-SLA-Support-Service-Management?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-SLA-Support-Service-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Enterprise-SLA-Support-Service-Management?style=flat-square&color=blue" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Enterprise-SLA-Support-Service-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
@@ -72,7 +72,7 @@ Self-hosted and open-source ITSM and customer support platforms offer zero per-s
 
 ### ⭐ Verified Open-Source Leaders (Sorted by Stars)
 
-| Project | Star Badge | Stack / Architecture | Core SLA & Service Management Features |
+| Project | Stars_Badge | Stack / Architecture | Core SLA & Service Management Features |
 |:---|:---:|:---|:---|
 | **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | Ruby on Rails, Vue.js, PostgreSQL, Redis | **Omnichannel customer engagement & support platform.** Built-in SLA policies, response time tracking, multi-brand customer inboxes, live chat, and webhook automation. |
 | **[UVdesk](https://github.com/uvdesk/community-skeleton)** | [![Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers) | PHP (Symfony), MySQL | **Enterprise open-source helpdesk system.** Extensible ticketing workflow, SLA policies with automated escalations, custom ticket types, and multi-channel email integration. |
